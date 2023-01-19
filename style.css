@@ -1,0 +1,10 @@
+i {
+  font-size: 1.1rem;
+}
+h1 {
+  color: moccasin;
+}
+body {
+  background-image: url(todolist.jpg);
+  background-size: cover;
+}
